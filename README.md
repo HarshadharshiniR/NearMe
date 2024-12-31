@@ -1,5 +1,5 @@
 # Ex04 Places Around Me
-## Date: 30/12/2024
+## Date: 24/11/2024
 
 ## AIM
 To develop a website to display details about the places around my house.
@@ -27,6 +27,10 @@ Execute the programs and publish them.
 ## CODE
 ```
 Map.html
+<html>
+<body>
+<h1>HARSHADHARSHINI</h1>
+<h3>KALLAKURICHI</h3>
 <img src="Screenshot 2024-12-30 213922.png" usemap="#image-map">
 <map name="image-map">
     <area target="" alt="trends" title="trends" href="trends.html" coords="785,503,915,569" shape="rect">
@@ -35,15 +39,7 @@ Map.html
     <area target="" alt="anb" title="anb" href="anb.html" coords="1756,389,1915,501" shape="rect">
     <area target="" alt="emapper" title="emapper" href="emapper.html" coords="669,617,77" shape="circle">
 </map>
-anb.html
-<html>
-    <body bgcolor="pink">
-        <h1>KALLAKURICHI</h1>
-        <h3>ANB MAHAL</h3>
-        <p>
-            These halls are equipped with modern amenities and provide a comfortable and luxurious setting for the guests. They are spacious and can accommodate large gatherings. Some of the popular marriage halls in Kallakurichi
-        </p>
-    </body>
+</body>
 </html>
 brs nagar.html
 <html>
@@ -101,7 +97,7 @@ emapper.html
 
 
 ## OUTPUT
-![alt text](<Screenshot (42).png>) 
+![alt text](<Screenshot (44).png>)
 ![alt text](<Screenshot (41).png>) 
 ![alt text](<Screenshot (40).png>) 
 ![alt text](<Screenshot (39).png>) 
